@@ -1,6 +1,7 @@
 wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\images\college_photo.png
 wwwroot\index.html
 F:\BITY3\Semester1\Application Development\github\Workshop7\wwwroot\css\app.css
 F:\BITY3\Semester1\Application Development\github\Workshop7\wwwroot\css\bootstrap\bootstrap.min.css

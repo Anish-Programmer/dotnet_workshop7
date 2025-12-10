@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "F:\\BITY3\\Semester1\\Application Development\\github\\Workshop7\\wwwroot\\images\\college_photo.png",
+      "PackagePath": "staticwebassets\\images\\college_photo.png"
+    },
+    {
       "Id": "F:\\BITY3\\Semester1\\Application Development\\github\\Workshop7\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
