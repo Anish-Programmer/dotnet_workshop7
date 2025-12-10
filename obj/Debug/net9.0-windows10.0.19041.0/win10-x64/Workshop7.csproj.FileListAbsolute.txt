@@ -462,7 +462,6 @@ F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-win
 F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\a8svhul36b-e5tk7yf482.gz
 F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\aaohiqvx2a-6gzpyzhau4.gz
 F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\bpcqg7u47d-8inm30yfxf.gz
-F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\npcyntnf0l-ee8e5q9l8u.gz
 F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\upd3r0to0k-l6xgz29hgz.gz
 F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\se3tt7xemy-l6xgz29hgz.gz
 F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json
@@ -479,7 +478,6 @@ F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-win
 F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\a8svhul36b-e5tk7yf482.br
 F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\aaohiqvx2a-6gzpyzhau4.br
 F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\bpcqg7u47d-8inm30yfxf.br
-F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\npcyntnf0l-ee8e5q9l8u.br
 F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\upd3r0to0k-l6xgz29hgz.br
 F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\se3tt7xemy-l6xgz29hgz.br
 F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.json
@@ -583,3 +581,5 @@ F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-win
 F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Workshop7.sourcelink.json
 F:\BITY3\Semester1\Application Development\github\Workshop7\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\images\college_photo.png
+F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\npcyntnf0l-o7vg2k9fs3.gz
+F:\BITY3\Semester1\Application Development\github\Workshop7\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\npcyntnf0l-o7vg2k9fs3.br
